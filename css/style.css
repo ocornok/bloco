@@ -61,8 +61,6 @@
     display:none;
     width: 90vw;
     background-color: #439240;
-    
- 
   }
   
   #controls-note{
@@ -71,13 +69,14 @@
     
   }
 
-    body {
-            font-family: Arial, sans-serif;
-            background-image: url('https://i.pinimg.com/736x/17/d7/d2/17d7d2b0ec3c773606f38c7893f91456.jpg');
-            margin: 0;
-            padding: 0;
-        }
-        
+  body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://i.pinimg.com/564x/39/e7/31/39e731185ef753037d8d8b2ef0305c81.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+ }
 
 button {
     padding: 10px 20px;
